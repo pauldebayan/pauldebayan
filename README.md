@@ -2,7 +2,7 @@
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 -->
 
-## Hi there 👋 I am Debayan Paul. Welcome to my Github Account!
+## Hi there 👋 I am Debayan Paul. Welcome to my Github!
 
 I have experience as a Full Stack Developer in a Startup. In the Startup I used to work with technologies like VueJS, ReactJ, NodeJS, PostgreSQL and other Technologies.
 
@@ -10,8 +10,8 @@ I have experience as a Full Stack Developer in a Startup. In the Startup I used 
 
 # Following are the **ML platforms** I use:
 
-<img src="https://www.kaggle.com/static/images/favicon.ico" alt="Kaggle" width="20" height="20"> [Kaggle](https://www.kaggle.com/pauldebayan) &nbsp;
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20" height="20"> [HuggingFace](https://huggingface.co/pauldebayan)
+<img src="https://www.kaggle.com/static/images/favicon.ico" alt="Kaggle" width="30" height="30"> [Kaggle](https://www.kaggle.com/pauldebayan) &nbsp;
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="30" height="30"> [HuggingFace](https://huggingface.co/pauldebayan)
 
 # Following are the Coding platforms I have:
 
