@@ -9,8 +9,8 @@ I have experience as a Full Stack Developer in a Startup. In the Startup I used 
 > I have started my transition to ML after I came to know about [Devin.ai](https://preview.devin.ai/) which is a "AI software developer". It is not as good a it was branded but I can see the potential of AI which is behind it.
 
 # Following are the **ML platforms** I use:
-<img src="https://www.kaggle.com/static/images/favicon.ico" alt="Kaggle" width="100" height="100"> [Kaggle](https://www.kaggle.com/pauldebayan) &nbsp;
-<img src="[https://www.kaggle.com/static/images/favicon.ico](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" alt="Kaggle" width="100" height="100"> [HuggingFace](https://huggingface.co/pauldebayan)
+<img src="https://www.kaggle.com/static/images/favicon.ico" alt="Kaggle" width="50" height="50"> [Kaggle](https://www.kaggle.com/pauldebayan) &nbsp;
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"> [HuggingFace](https://huggingface.co/pauldebayan)
 
 # Following are the Coding platforms I have:
 
