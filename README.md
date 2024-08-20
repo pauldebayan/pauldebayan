@@ -10,7 +10,7 @@ I have experience as a Full Stack Developer in a Startup. In the Startup I used 
 
 # Following are the **ML platforms** I use:
 
-[Kaggle](https://www.kaggle.com/static/images/favicon.ico) [Kaggle](https://www.kaggle.com/pauldebayan) [HuggingFace](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) [HuggingFace](https://huggingface.co/pauldebayan)
+![Kaggle](https://www.kaggle.com/static/images/favicon.ico) [Kaggle](https://www.kaggle.com/pauldebayan) ![HuggingFace](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) [HuggingFace](https://huggingface.co/pauldebayan)
 
 # Following are the Coding platforms I have:
 
