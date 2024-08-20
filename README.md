@@ -4,7 +4,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ## Hi there 👋 I am Debayan Paul. Welcome to my Github Profile!
 
-I have experience as a **Full Stack Developer** in a [Startup](https://upscalepics.com/). In the Startup I used to work with technologies like VueJS, ReactJ, NodeJS and PostgreSQL.
+I have experience as a **Full Stack Developer** in a [Startup](https://upscalepics.com/). My work involved utilizing technologies such as VueJS, ReactJ, NodeJS and PostgreSQL.
 
 > I have started my transition to ML after I came to know about [Devin.ai](https://preview.devin.ai/) which is a "AI software developer". It is not as good a it was branded but I can see the potential of AI which is behind it.
 
