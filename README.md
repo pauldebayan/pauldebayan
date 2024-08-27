@@ -2,7 +2,7 @@
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 -->
 
-## Hi there 👋 I am Debayan Paul. Welcome to my Github Profile!
+## Hi there 👋 I'm Debayan Paul. Welcome to my Github Profile!
 
 I have experience as a **Full Stack Developer** in a [Startup](https://upscalepics.com/). My work involved utilizing technologies such as VueJS, ReactJ, NodeJS and PostgreSQL.
 
