@@ -6,7 +6,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 I have experience as a **Full Stack Developer** in a [Startup](https://upscalepics.com/). My work involved utilizing technologies such as VueJS, ReactJ, NodeJS and PostgreSQL.
 
-> I have started my transition to ML after I came to know about [Devin.ai](https://preview.devin.ai/) (which is a "AI software developer") and Generative AI.
+I have started my transition to ML after I came to know about Generative AI and [Devin.ai](https://preview.devin.ai/) (which is a "AI software developer").
 
 ### **ML**
 
