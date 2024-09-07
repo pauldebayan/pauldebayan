@@ -8,6 +8,13 @@ I have experience as a **Full Stack Developer** in a [Startup](https://upscalepi
 
 I have started my transition to ML after I came to know about Generative AI and [Devin.ai](https://preview.devin.ai/) (which is a "AI software developer").
 
+The following technologies that I work with / have some experience / currently learning:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="20" height="20"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/120px-PyTorch_logo_black.svg.png" alt="PyTorch" width="20" height="20"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="20" height="20"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Golang" width="20" height="20"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/120px-Nextjs-logo.svg.png" alt="NextJS" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Postgres" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="20" height="20"/> 
+
+<!-- Python, PyTorch, C++, Golang, NextJS, Postgres, AWS -->
+
+I also have interest in TinyML, Embedded Systems, IOT and Robotics. 
+
 ### **ML**
 
 <img src="https://www.kaggle.com/static/images/favicon.ico" alt="Kaggle" width="12" height="12"> [Kaggle](https://www.kaggle.com/pauldebayan) &nbsp;&nbsp;
