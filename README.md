@@ -6,14 +6,14 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 I have experience as a **Full Stack Developer** in a [Startup](https://upscalepics.com/). My work involved utilizing technologies such as VueJS, ReactJ, NodeJS and PostgreSQL.
 
-> I have started my transition to ML after I came to know about [Devin.ai](https://preview.devin.ai/) which is a "AI software developer" and Generative AI.
+> I have started my transition to ML after I came to know about [Devin.ai](https://preview.devin.ai/) (which is a "AI software developer") and Generative AI.
 
-### **ML** platforms
+### **ML**
 
 <img src="https://www.kaggle.com/static/images/favicon.ico" alt="Kaggle" width="12" height="12"> [Kaggle](https://www.kaggle.com/pauldebayan) &nbsp;&nbsp;
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="12" height="12"> [HuggingFace](https://huggingface.co/pauldebayan)
 
-### **Coding** platforms
+### **Coding**
 
 <img src="https://assets.leetcode.com/static_assets/public/icons/apple-touch-icon-72x72.png" alt="Leetcode" width="12" height="12"> [Leetcode](https://leetcode.com/u/pauldebayan) &nbsp;&nbsp; <img src="https://codeforces.org/s/10344/apple-icon-72x72.png" alt="Codeforces" width="12" height="12"> [Codeforces](https://codeforces.com/profile/pauldebayan)
 
@@ -21,18 +21,4 @@ I have experience as a **Full Stack Developer** in a [Startup](https://upscalepi
 ### **Connect**
 
 <img src="https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" alt="LinkedIn" width="12" height="12"> [LinkedIn](https://www.linkedin.com/in/pauldebayan) &nbsp;&nbsp; <img src="https://www.youtube.com/s/desktop/4610dd25/img/favicon_32x32.png" alt="Youtube" width="12" height="12"> [Youtube](https://www.youtube.com/@pauldebayan) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
