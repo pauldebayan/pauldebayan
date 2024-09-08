@@ -31,3 +31,7 @@ I also have interest in **TinyML, Embedded Systems, IOT and Robotics**.
 
 <img src="https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" alt="LinkedIn" width="12" height="12"> [LinkedIn](https://www.linkedin.com/in/pauldebayan) &nbsp;&nbsp; <img src="https://www.youtube.com/s/desktop/4610dd25/img/favicon_32x32.png" alt="Youtube" width="12" height="12"> [Youtube](https://www.youtube.com/@pauldebayan) 
 
+### **Others**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/800px-ChessSet.jpg" alt="Chess" width="12" height="12"> [Chess](https://www.chess.com/member/pauldebayan)
+
